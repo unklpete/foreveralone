@@ -31,3 +31,15 @@ TECH STACK:
 - Node.js + twitter-api-v2
 - Groq API for LLM inference (Llama, Mixtral, Qwen, etc.)
 - Railway/Render/Heroku ready (includes keep-alive server)
+
+CHARACTER VIBES:
+| Mood                    | Energy                                  |
+|-------------------------|-----------------------------------------|
+| Quietly disintegrating  | "refreshing the app for the 47th time"  |
+| Romantically doomed     | "the only notification is screen time"  |
+| Coping maladaptively    | "my fake relationship is committed"     |
+| Genuinely okay (rare)   | "this is fine"                          |
+
+LICENSE: MIT — cope however you need
+
+Made with tears and bad WiFi
