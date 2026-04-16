@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/still4everalone?style=social)](https://twitter.com/still4everalone)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?logo=node.js&logoColor=white)]()
-[![KnowYourMeme](https://img.shields.io/badge/KnowYourMeme-meme%20database-orange?style=social&logo=google-chrome)](https://knowyourmeme.com)
+[![KnowYourMeme](https://img.shields.io/badge/KnowYourMeme-meme%20database-orange?style=social&logo=google-chrome)](https://knowyourmeme.com/memes/forever-alone)
 
 </div>
 
