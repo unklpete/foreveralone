@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="foreveralone.png" alt="KYAN_DOG - The ESC Key Warrior" width="400"/>
+  <img src="foreveralone.png" alt="Forever_alone" width="400"/>
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 > "The original rage comic, now terminally online and self-aware"
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kyanterminal?style=social)](https://twitter.com/still4everalone)
+[![Twitter Follow](https://img.shields.io/twitter/follow/still4everalone?style=social)](https://twitter.com/still4everalone)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?logo=node.js&logoColor=white)]()
 
