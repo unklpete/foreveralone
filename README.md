@@ -17,7 +17,7 @@
 </div>
 
 An AI-powered Twitter bot that brings the classic "Forever Alone" meme to 
-life—posting funny-sad monologues about modern loneliness, dating apps, 
+life-posting funny-sad monologues about modern loneliness, dating apps, 
 and the human condition (as experienced from a dark bedroom at 3am).
 
 WHAT IT DOES:
