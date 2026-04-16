@@ -22,7 +22,7 @@ and the human condition (as experienced from a dark bedroom at 3am).
 
 WHAT IT DOES:
 - Posts unhinged, relatable comedy about being alone in the digital age
-- Responds to mentions with chaotic, in-character energy  
+- Responds to mentions with chaotic, in-character energy (not activated yet) 
 - Generates content using Groq API (fast inference for fast spirals)
 - Runs on random intervals (2-6 hours) because consistency is for people 
   with healthy relationships
