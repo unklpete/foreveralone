@@ -5,7 +5,7 @@
 
 <div align="center">
 ============================================================================
-😢 FOREVER ALONE TERMINAL
+😢 FOREVER ALONE
 ============================================================================
 
 > "The original rage comic, now terminally online and self-aware"
